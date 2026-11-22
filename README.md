@@ -2,6 +2,8 @@
 
 See where people leave a sequential funnel and which cohorts account for the loss.
 
+**[Open the live demo](https://oguzhanozfe.github.io/funnel-friction-map/)** · [Browser features and setup](demo/DEMO.md)
+
 ![Funnel Friction Map showing the included example in the browser](docs/preview.png)
 
 [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/funnel-friction-map) · [Example input](example.json) · [Computed report](docs/example-report.json) · [Model settings](#connect-a-model)

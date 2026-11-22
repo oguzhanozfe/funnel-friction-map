@@ -1,0 +1,16 @@
+{
+  "model": "gemma-4-e4b-it",
+  "text": "Row 5 · What factors contribute to the 63.89% loss rate when Self-serve mobile users move from 'Created workspace' to 'Invited teammate'?",
+  "row": 5,
+  "record": {
+    "Cohort": "Self-serve mobile",
+    "From stage": "Created workspace",
+    "To stage": "Invited teammate",
+    "Entered": 108,
+    "Reached next": 39,
+    "Lost": 69,
+    "Loss (%)": 63.89
+  },
+  "source_sha256": "732b138dc5c79cfea0ffc332a6009fd79c9596c39d37b7bf546123e00f1a8617",
+  "report_sha256": "c9b892a67b0e07761fa65c981c2aac1d4e373ef5d2de0d2b9f70182e327088a1"
+}
