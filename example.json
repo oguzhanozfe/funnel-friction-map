@@ -1,0 +1,34 @@
+{
+  "stages": [
+    "Opened trial",
+    "Created workspace",
+    "Invited teammate",
+    "Shared first board"
+  ],
+  "cohorts": {
+    "Self-serve desktop": [
+      240,
+      180,
+      121,
+      94
+    ],
+    "Self-serve mobile": [
+      140,
+      108,
+      39,
+      33
+    ],
+    "Partner onboarding": [
+      30,
+      29,
+      24,
+      20
+    ],
+    "New partner pilot": [
+      5,
+      0,
+      0,
+      0
+    ]
+  }
+}

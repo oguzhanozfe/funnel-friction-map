@@ -1,0 +1,118 @@
+{
+  "summary": "The largest pooled loss was 133 of 317 people from Created workspace to Invited teammate.",
+  "metrics": {
+    "Entrants": 415,
+    "Finishers": 147,
+    "Completion (%)": 35.42
+  },
+  "rows": [
+    {
+      "Cohort": "Self-serve desktop",
+      "From stage": "Opened trial",
+      "To stage": "Created workspace",
+      "Entered": 240,
+      "Reached next": 180,
+      "Lost": 60,
+      "Loss (%)": 25.0
+    },
+    {
+      "Cohort": "Self-serve desktop",
+      "From stage": "Created workspace",
+      "To stage": "Invited teammate",
+      "Entered": 180,
+      "Reached next": 121,
+      "Lost": 59,
+      "Loss (%)": 32.78
+    },
+    {
+      "Cohort": "Self-serve desktop",
+      "From stage": "Invited teammate",
+      "To stage": "Shared first board",
+      "Entered": 121,
+      "Reached next": 94,
+      "Lost": 27,
+      "Loss (%)": 22.31
+    },
+    {
+      "Cohort": "Self-serve mobile",
+      "From stage": "Opened trial",
+      "To stage": "Created workspace",
+      "Entered": 140,
+      "Reached next": 108,
+      "Lost": 32,
+      "Loss (%)": 22.86
+    },
+    {
+      "Cohort": "Self-serve mobile",
+      "From stage": "Created workspace",
+      "To stage": "Invited teammate",
+      "Entered": 108,
+      "Reached next": 39,
+      "Lost": 69,
+      "Loss (%)": 63.89
+    },
+    {
+      "Cohort": "Self-serve mobile",
+      "From stage": "Invited teammate",
+      "To stage": "Shared first board",
+      "Entered": 39,
+      "Reached next": 33,
+      "Lost": 6,
+      "Loss (%)": 15.38
+    },
+    {
+      "Cohort": "Partner onboarding",
+      "From stage": "Opened trial",
+      "To stage": "Created workspace",
+      "Entered": 30,
+      "Reached next": 29,
+      "Lost": 1,
+      "Loss (%)": 3.33
+    },
+    {
+      "Cohort": "Partner onboarding",
+      "From stage": "Created workspace",
+      "To stage": "Invited teammate",
+      "Entered": 29,
+      "Reached next": 24,
+      "Lost": 5,
+      "Loss (%)": 17.24
+    },
+    {
+      "Cohort": "Partner onboarding",
+      "From stage": "Invited teammate",
+      "To stage": "Shared first board",
+      "Entered": 24,
+      "Reached next": 20,
+      "Lost": 4,
+      "Loss (%)": 16.67
+    },
+    {
+      "Cohort": "New partner pilot",
+      "From stage": "Opened trial",
+      "To stage": "Created workspace",
+      "Entered": 5,
+      "Reached next": 0,
+      "Lost": 5,
+      "Loss (%)": 100.0
+    },
+    {
+      "Cohort": "New partner pilot",
+      "From stage": "Created workspace",
+      "To stage": "Invited teammate",
+      "Entered": 0,
+      "Reached next": 0,
+      "Lost": 0,
+      "Loss (%)": null
+    },
+    {
+      "Cohort": "New partner pilot",
+      "From stage": "Invited teammate",
+      "To stage": "Shared first board",
+      "Entered": 0,
+      "Reached next": 0,
+      "Lost": 0,
+      "Loss (%)": null
+    }
+  ]
+}
